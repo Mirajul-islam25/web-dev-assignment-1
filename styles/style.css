@@ -47,4 +47,42 @@ main {
       background-color: #c9cace;
       text-align: center;
       margin-top: 74px;
+      border-radius: 10px;
+}
+
+.first-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 1px solid white;
+      border: none;
+      background-color: white;
+      margin: 20px 30px;
+      justify-content: space-around;
+      border-radius: 10px;
+
+}
+
+.second-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 1px solid white;
+      border: none;
+      background-color: white;
+      margin: 20px 30px;
+      justify-content: space-around;
+      border-radius: 10px;
+}
+
+.third-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 1px solid white;
+      border: none;
+      background-color: white;
+      margin: 20px 30px;
+      justify-content: space-around;
+      border-radius: 10px;
 }
