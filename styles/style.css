@@ -42,12 +42,19 @@
 
 /* header style ends */
 
-main {
+.primary-title {
       border: 1px solid white;
       background-color: #c9cace;
       text-align: center;
       margin-top: 74px;
       border-radius: 10px;
+      padding: 80px 97px;
+}
+header {
+      margin-top: 40px;
+}
+.text-para {
+      margin-bottom: 48px;
 }
 
 .first-container {
@@ -60,6 +67,7 @@ main {
       margin: 20px 30px;
       justify-content: space-around;
       border-radius: 10px;
+      margin-bottom: 32px;
 
 }
 
@@ -73,6 +81,7 @@ main {
       margin: 20px 30px;
       justify-content: space-around;
       border-radius: 10px;
+      margin-bottom: 32px;
 }
 
 .third-container {
