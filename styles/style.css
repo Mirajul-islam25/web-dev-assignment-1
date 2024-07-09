@@ -50,9 +50,11 @@
       border-radius: 10px;
       padding: 80px 97px;
 }
+
 header {
       margin-top: 40px;
 }
+
 .text-para {
       margin-bottom: 48px;
 }
@@ -93,5 +95,34 @@ header {
       background-color: white;
       margin: 20px 30px;
       justify-content: space-around;
+      border-radius: 10px;
+}
+
+.secondary-title {
+      text-align: center;
+      justify-content: center;
+}
+
+.secondary-heading {
+      margin-top: 90px;
+}
+.secondary-para {
+      margin: 24px 0px 48px;
+}
+
+.multimedia {
+      border: 2px solid black;
+      padding: 30px;
+      margin: 0px 50px;
+      border-radius: 10px;
+      background-size: cover;
+      height: 400px;
+      width: 850px;
+      justify-content: center;
+
+}
+
+.frame {
+      padding-left: 140px;
       border-radius: 10px;
 }
