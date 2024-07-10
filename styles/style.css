@@ -68,6 +68,10 @@
 header {
       margin-top: 40px;
 }
+.section-heading {
+      font-size: 30px;
+      font-weight: 600;
+}
 
 .text-para {
       margin-bottom: 48px;
