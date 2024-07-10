@@ -5,6 +5,18 @@
       display: flex;
       justify-content: space-between;
       margin: 0px 50px;
+      margin-bottom: 30px;
+}
+
+.btn-heading {
+      border: 1px solid #0D1321;
+      color: #0D1321;
+      background-color: white;
+      border-radius: 8px;
+      padding: 15px 33px;
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 44px;
 }
 
 
@@ -25,7 +37,7 @@
       margin-bottom: 24px;
 }
 
-.banner-discription {
+.banner-description {
       margin-bottom: 32px;
       opacity: 0.6;
       margin-bottom: 32px;
@@ -46,7 +58,7 @@
 
 .primary-title {
       border: 1px solid white;
-      background-color: #e7edf3;
+      background-color: #f0f2f5;
       text-align: center;
       margin-top: 74px;
       border-radius: 10px;
@@ -126,15 +138,18 @@ header {
 }
 
 .multimedia {
-      border: 2px solid black;
+      border: 1px solid black;
       padding: 30px;
       margin: 0px 50px;
       border-radius: 10px;
-      background-size: cover;
       height: 400px;
       width: 850px;
       justify-content: center;
 
+}
+
+.multimedia iframe {
+      border-radius: 10px;
 }
 
 .frame {
@@ -205,6 +220,7 @@ header {
       border-radius: 10px;
       border: none;
 }
+
 .text-skill {
       text-decoration: underline;
 }
@@ -214,6 +230,7 @@ header {
       background-image: url(../images/handshake.jpg);
       background-size: cover;
       background-repeat: no-repeat;
+      background-position: center;
       margin: 50px 120px 50px 135px;
       border-radius: 10px;
 }
@@ -226,8 +243,8 @@ header {
       font-weight: 600;
 }
 
-.last-discription {
-      color: #272727;
+.last-description {
+      color: whitesmoke;
       opacity: 1;
       margin-bottom: 48px;
 }
@@ -270,7 +287,7 @@ input {
       padding: 20px 0px;
 }
 
-.footer-discription {
+.footer-description {
       padding: 30px 0px;
       justify-content: center;
       align-items: center;
